@@ -1,0 +1,14 @@
+.metadata/
+*.class
+.settings
+target/
+bin/
+classes/
+tmp/
+.project
+.apt_generated/
+*.classpath
+.factorypath
+/.recommenders/
+*.iml
+.idea/
